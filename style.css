@@ -76,3 +76,8 @@ main{
 .deve{
     background-color: pink;
 }
+.boy{
+    border-radius: 40px;
+    
+    max-height: 425px;
+}
